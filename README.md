@@ -13,3 +13,5 @@ vue-pdf 설치
 4. 보여주고자 하는 pdf를 public 폴더 안에 위치할 경우
   <pdf src="/pdfvuerprac/sampleA.pdf"></pdf>로 pdf 파일을 출력할 수 있다.
   (단, 이 경우 pdf 파일의 첫 페이지만 출력된다. 모든 페이지를 순서대로 출력하기 위해선 v-for를 사용한다.)
+
+https://sianke1991.github.io/pdfvuerprac/
